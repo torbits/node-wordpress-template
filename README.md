@@ -2,7 +2,7 @@
 
 # Instalación
 
-Ejecutar desde la carpeta principal ```sudo bin/install.sh```
+Ejecutar desde la carpeta principal ```bin/install.sh```
 
 Nota: Eliminar el archivo index.html de la carpeta /var/www o /var/www/html
 
